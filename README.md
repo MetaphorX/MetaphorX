@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakur Galla</h1>
-<h3 align="center">Enterprising Software Engineer and Savior of Small Businesses</h3>
+<h3 align="center">Enterprising Software Engineer with interests in Small Businesses</h3>
 
 <p align="left"> <a href="https://twitter.com/shakur_galla" target="blank"><img src="https://img.shields.io/twitter/follow/shakur_galla?logo=twitter&style=for-the-badge" alt="shakur_galla" /></a> </p>
 
